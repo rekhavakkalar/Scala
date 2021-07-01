@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="testZip">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../codebase/june2021/media/ccc-compliance/src/test/resources/archives/testZip.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
